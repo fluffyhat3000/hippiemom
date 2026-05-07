@@ -1,2 +1,2 @@
-# hippiemom.net
+# hippiemom
 just trying some things out.
